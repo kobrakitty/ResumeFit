@@ -1,6 +1,4 @@
 openai
 streamlit
-io
-os
 PyPDF2
-docx2txt
+python-docx
