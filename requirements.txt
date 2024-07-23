@@ -1,3 +1,6 @@
-openai==1.35.10
-streamlit==1.36.0
+openai
+streamlit
 io
+os
+PyPDF2
+docx2txt
